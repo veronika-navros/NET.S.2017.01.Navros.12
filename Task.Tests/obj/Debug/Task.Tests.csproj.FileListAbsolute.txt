@@ -1,0 +1,9 @@
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\bin\Debug\Task.Tests.dll
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\bin\Debug\Task.Tests.pdb
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\bin\Debug\nunit.framework.dll
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\bin\Debug\Task.dll
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\bin\Debug\Task.pdb
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\bin\Debug\nunit.framework.xml
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\obj\Debug\Task.Tests.csprojResolveAssemblyReference.cache
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\obj\Debug\Task.Tests.dll
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task.Tests\obj\Debug\Task.Tests.pdb

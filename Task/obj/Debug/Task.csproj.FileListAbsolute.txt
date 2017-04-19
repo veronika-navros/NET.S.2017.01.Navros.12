@@ -1,0 +1,5 @@
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task\bin\Debug\Task.dll
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task\bin\Debug\Task.pdb
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task\obj\Debug\Task.dll
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\Task\obj\Debug\Task.pdb

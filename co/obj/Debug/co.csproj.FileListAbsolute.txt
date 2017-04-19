@@ -1,0 +1,5 @@
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\co\bin\Debug\co.exe.config
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\co\bin\Debug\co.exe
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\co\bin\Debug\co.pdb
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\co\obj\Debug\co.exe
+E:\EPAM\Day 12\NET.S.2017.01.Navros.12\co\obj\Debug\co.pdb
